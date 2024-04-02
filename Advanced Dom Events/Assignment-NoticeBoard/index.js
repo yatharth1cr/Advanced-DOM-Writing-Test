@@ -35,7 +35,6 @@ function createCardUI(cardsArray) {
 // Event listener for form submission
 form.addEventListener("submit", function (event) {
   event.preventDefault();
-
   // Get value from input
   let titleValue = title.value;
   let categoryValue = category.value;
