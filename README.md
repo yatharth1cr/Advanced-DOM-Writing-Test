@@ -3,4 +3,4 @@
 - Assignment-InfaniteScroll
 - Assignment-NoticeBoard
 ## 2. Using HTML Canvas
-- Assignment
+- Assignment 2D Breakout Game
