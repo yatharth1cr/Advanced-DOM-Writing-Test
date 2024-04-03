@@ -2,4 +2,5 @@
 - Assignment-Drag&DropList
 - Assignment-InfaniteScroll
 - Assignment-NoticeBoard
-## 2. Using Html Canvas
+## 2. Using HTML Canvas
+- Assignment
