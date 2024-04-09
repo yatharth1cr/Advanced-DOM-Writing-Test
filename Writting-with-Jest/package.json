@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "advanced-dom-writing-test",
+  "description": "- Assignment-Drag&DropList\r - Assignment-InfaniteScroll\r - Assignment-NoticeBoard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatharth1cr/Advanced-DOM-Writing-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yatharth1cr/Advanced-DOM-Writing-Test/issues"
+  },
+  "homepage": "https://github.com/yatharth1cr/Advanced-DOM-Writing-Test#readme"
+}
